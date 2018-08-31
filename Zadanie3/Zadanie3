@@ -1,0 +1,8 @@
+Napisz dwie aplikacje konsolowe z wykorzystaniem JMS.
+a) Pierwsza aplikacja – klient – powinna łączyć się do tematu (ang. topic) i wyświetlać
+wiadomości tekstowe wysyłane przez serwer (producent). W momencie otrzymania
+wiadomości „/exit”, aplikacja klienta powinna przerwać działanie.
+b) Druga aplikacja – serwer – powinna łączyć się do tematu (ang. topic) i umożliwić
+użytkownikowi wysyłanie wiadomości wpisanych w konsoli. W momencie wpisania
+przez użytkownika wiadomości „/exit”, aplikacja powinna wysłać wiadomość do
+topicu i zakończyć działanie.
