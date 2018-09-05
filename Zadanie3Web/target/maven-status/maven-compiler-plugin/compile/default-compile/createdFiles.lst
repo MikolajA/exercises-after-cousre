@@ -1,0 +1,5 @@
+com/isa/jms/LoggerSubscriberBean.class
+com/isa/web/MessageServlet.class
+com/isa/jms/RepositoryWriterSubscriberBean.class
+com/isa/web/PublisherServlet.class
+com/isa/data/MessageRepository.class
